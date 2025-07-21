@@ -1,4 +1,4 @@
-We turns messy, inconsistent datasets into reliable, analysis‑ready assets. Our modular **Data Scrub Engine**—TextScrub, TableScrub, TimeSeriesScrub, StreamScrub—pairs automation with 24/7 human‑in‑the‑loop support and ISO/IEC 27001‑aligned security.
+We turns messy, inconsistent datasets into reliable, analysis‑ready assets or machine learning-ready data. Our modular **Data Scrub Engine**—TextScrub, TableScrub, TimeSeriesScrub, StreamScrub—pairs automation with 24/7 human‑in‑the‑loop support and ISO/IEC 27001‑aligned security.
 
 ### Vision
 
